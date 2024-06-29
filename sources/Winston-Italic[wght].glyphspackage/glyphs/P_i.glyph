@@ -1,0 +1,63 @@
+{
+glyphname = Pi;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{1078, 0}";
+}
+);
+layerId = "69DF8491-DF23-4D48-8439-A57C2757D8F5";
+name = Black.1;
+shapes = (
+{
+alignment = -1;
+ref = Pecyr;
+}
+);
+width = 1556;
+},
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Pecyr;
+scale = (1.024,1.024);
+}
+);
+width = 1512;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{1074, 0}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = Pecyr;
+scale = (1.011,1.011);
+}
+);
+width = 1496;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = Pecyr;
+}
+);
+width = 1486;
+}
+);
+unicode = 928;
+}

@@ -1,0 +1,64 @@
+{
+color = 11;
+glyphname = emacrongrave;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (654,0);
+ref = macroncomb_gravecomb;
+}
+);
+width = 1238;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{633, 0}";
+},
+{
+name = ogonek;
+position = "{828, 0}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (637,0);
+ref = macroncomb_gravecomb;
+}
+);
+width = 1202;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (628,0);
+ref = macroncomb_gravecomb;
+}
+);
+width = 1180;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = e;
+unicode = 7701;
+}

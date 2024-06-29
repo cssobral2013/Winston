@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = hairspace;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+width = 204;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+width = 204;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+width = 204;
+}
+);
+leftKerningGroup = hairspace;
+rightKerningGroup = hairspace;
+unicode = 8202;
+}

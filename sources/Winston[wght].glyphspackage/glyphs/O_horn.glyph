@@ -1,0 +1,100 @@
+{
+color = 11;
+glyphname = Ohorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{798, 0}";
+},
+{
+name = top;
+position = "{796, 1472}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (936,0);
+ref = horncomb.O.case;
+}
+);
+width = 1614;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{768, 0}";
+},
+{
+name = top;
+position = "{768, 1472}";
+},
+{
+name = Qtail;
+position = "{768, -20}";
+},
+{
+name = center;
+position = "{769, 738}";
+},
+{
+name = ogonek;
+position = "{884, 0}";
+},
+{
+name = topleft;
+position = "{48, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (907,0);
+ref = horncomb.O.case;
+}
+);
+width = 1538;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{750, 0}";
+},
+{
+name = top;
+position = "{748, 1472}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (892,0);
+ref = horncomb.O.case;
+}
+);
+width = 1492;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 416;
+}

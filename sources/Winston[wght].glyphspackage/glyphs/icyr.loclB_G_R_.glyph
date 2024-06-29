@@ -1,0 +1,54 @@
+{
+glyphname = icyr.loclBGR;
+widthMetricsKey = u;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 1342;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{634, 0}";
+},
+{
+name = ogonek;
+position = "{1077, 0}";
+},
+{
+name = top;
+position = "{634, 1011}";
+},
+{
+name = topright;
+position = "{947, 1097}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 1272;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 1230;
+}
+);
+}

@@ -1,0 +1,68 @@
+{
+glyphname = iotadieresis;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (274,-28);
+ref = dieresiscomb;
+scale = (1.024,1.024);
+}
+);
+width = 666;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{225, 989}";
+},
+{
+name = top;
+position = "{225, 1419}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = iota;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (225,-45);
+ref = dieresiscomb;
+scale = (1.024,1.024);
+}
+);
+width = 597;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (192,-60);
+ref = dieresiscomb;
+scale = (1.024,1.024);
+}
+);
+width = 556;
+}
+);
+unicode = 970;
+}

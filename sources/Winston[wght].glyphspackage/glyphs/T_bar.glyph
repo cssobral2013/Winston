@@ -1,0 +1,64 @@
+{
+color = 11;
+glyphname = Tbar;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = T;
+},
+{
+alignment = -1;
+pos = (644,0);
+ref = strokeshortcomb.case;
+}
+);
+width = 1290;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{606, 0}";
+},
+{
+name = top;
+position = "{605, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = T;
+},
+{
+alignment = -1;
+pos = (605,0);
+ref = strokeshortcomb.case;
+}
+);
+width = 1211;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = T;
+},
+{
+alignment = -1;
+pos = (582,0);
+ref = strokeshortcomb.case;
+}
+);
+width = 1164;
+}
+);
+leftKerningGroup = T;
+rightKerningGroup = T;
+unicode = 358;
+}

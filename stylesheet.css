@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Thin.woff2') format('woff2'),
+        url('web/Winston-Thin.woff') format('woff'),
+        url('ttf/Winston-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-ThinItalic.woff2') format('woff2'),
+        url('web/Winston-ThinItalic.woff') format('woff'),
+        url('ttf/Winston-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-ExtraLight.woff2') format('woff2'),
+        url('web/Winston-ExtraLight.woff') format('woff'),
+        url('ttf/Winston-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-ExtraLightItalic.woff2') format('woff2'),
+        url('web/Winston-ExtraLightItalic.woff') format('woff'),
+        url('ttf/Winston-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Light.woff2') format('woff2'),
+        url('web/Winston-Light.woff') format('woff'),
+        url('ttf/Winston-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-LightItalic.woff2') format('woff2'),
+        url('web/Winston-LightItalic.woff') format('woff'),
+        url('ttf/Winston-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Regular.woff2') format('woff2'),
+        url('web/Winston-Regular.woff') format('woff'),
+        url('ttf/Winston-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Italic.woff2') format('woff2'),
+        url('web/Winston-Italic.woff') format('woff'),
+        url('ttf/Winston-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Medium.woff2') format('woff2'),
+        url('web/Winston-Medium.woff') format('woff'),
+        url('ttf/Winston-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-MediumItalic.woff2') format('woff2'),
+        url('web/Winston-MediumItalic.woff') format('woff'),
+        url('ttf/Winston-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-SemiBold.woff2') format('woff2'),
+        url('web/Winston-SemiBold.woff') format('woff'),
+        url('ttf/Winston-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-SemiBoldItalic.woff2') format('woff2'),
+        url('web/Winston-SemiBoldItalic.woff') format('woff'),
+        url('ttf/Winston-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Bold.woff2') format('woff2'),
+        url('web/Winston-Bold.woff') format('woff'),
+        url('ttf/Winston-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-BoldItalic.woff2') format('woff2'),
+        url('web/Winston-BoldItalic.woff') format('woff'),
+        url('ttf/Winston-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-ExtraBold.woff2') format('woff2'),
+        url('web/Winston-ExtraBold.woff') format('woff'),
+        url('ttf/Winston-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/Winston-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/Winston-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-Black.woff2') format('woff2'),
+        url('web/Winston-Black.woff') format('woff'),
+        url('ttf/Winston-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winston';
+    src: url('web/Winston-BlackItalic.woff2') format('woff2'),
+        url('web/Winston-BlackItalic.woff') format('woff'),
+        url('ttf/Winston-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

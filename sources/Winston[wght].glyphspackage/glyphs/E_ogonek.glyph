@@ -1,0 +1,80 @@
+{
+color = 11;
+glyphname = Eogonek;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{666, 1472}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (1004,0);
+ref = ogonekcomb;
+}
+);
+width = 1260;
+},
+{
+anchors = (
+{
+name = top;
+position = "{662, 1472}";
+},
+{
+name = bottom;
+position = "{662, 0}";
+},
+{
+name = topleft;
+position = "{45, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (985,0);
+ref = ogonekcomb;
+}
+);
+width = 1201;
+},
+{
+anchors = (
+{
+name = top;
+position = "{638, 1472}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (978,0);
+ref = ogonekcomb;
+}
+);
+width = 1166;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = E;
+unicode = 280;
+}

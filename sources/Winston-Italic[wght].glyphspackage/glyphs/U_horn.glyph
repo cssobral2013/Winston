@@ -1,0 +1,89 @@
+{
+color = 11;
+glyphname = Uhorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{660, 0}";
+},
+{
+name = top;
+position = "{870, 1472}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (1122,0);
+ref = horncomb.case;
+}
+);
+width = 1494;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{641, 0}";
+},
+{
+name = top;
+position = "{851, 1472}";
+},
+{
+name = ogonek;
+position = "{755, 0}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = U;
+},
+{
+alignment = -1;
+pos = (1148,0);
+ref = horncomb.case;
+}
+);
+width = 1458;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{628, 0}";
+},
+{
+name = top;
+position = "{838, 1472}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (1174,0);
+ref = horncomb.case;
+}
+);
+width = 1436;
+}
+);
+leftKerningGroup = U;
+rightKerningGroup = Uhorn;
+unicode = 431;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = Tau;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = T;
+scale = (1.024,1.024);
+}
+);
+width = 1232;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{624, 0}";
+},
+{
+name = center;
+position = "{623, 766}";
+},
+{
+name = top;
+position = "{623, 1507}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (3,0);
+ref = T;
+scale = (1.024,1.024);
+}
+);
+width = 1197;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = T;
+scale = (1.024,1.024);
+}
+);
+width = 1176;
+}
+);
+unicode = 932;
+}

@@ -1,0 +1,71 @@
+{
+color = 11;
+glyphname = strokeshortcomb.t;
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{0, 578}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+closed = 1;
+nodes = (
+(346,476,l),
+(346,680,l),
+(-348,680,l),
+(-348,476,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{0, 567}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,500,l),
+(288,631,l),
+(-290,631,l),
+(-290,500,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{0, 558}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(236,522,l),
+(236,588,l),
+(-238,588,l),
+(-238,522,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = strokeshortcomb;
+rightKerningGroup = strokeshortcomb;
+}

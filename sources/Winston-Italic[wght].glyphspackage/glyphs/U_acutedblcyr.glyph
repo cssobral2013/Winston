@@ -1,0 +1,60 @@
+{
+color = 11;
+glyphname = Uacutedblcyr;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = Ucyr;
+},
+{
+alignment = -1;
+pos = (690,0);
+ref = hungarumlautcomb.case;
+}
+);
+width = 1362;
+},
+{
+anchors = (
+{
+name = top;
+position = "{818, 1806}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+ref = Ucyr;
+},
+{
+alignment = -1;
+pos = (650,0);
+ref = hungarumlautcomb.case;
+}
+);
+width = 1292;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = Ucyr;
+},
+{
+alignment = -1;
+pos = (624,0);
+ref = hungarumlautcomb.case;
+}
+);
+width = 1250;
+}
+);
+leftKerningGroup = "U-cy";
+rightKerningGroup = "U-cy";
+unicode = 1266;
+}

@@ -1,0 +1,70 @@
+{
+color = 11;
+export = 0;
+glyphname = "__Zedescener-cy";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{432, 0}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(535.143,-272,l),
+(595.714,152,l),
+(311.714,152,l),
+(251.143,-272,l)
+);
+}
+);
+width = 1044;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{432, 0}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(478,-272,l),
+(530,94,l),
+(360,94,l),
+(308,-272,l)
+);
+}
+);
+width = 1044;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{432, 0}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(427.143,-272,l),
+(472.,42,l),
+(404.,42,l),
+(359.143,-272,l)
+);
+}
+);
+width = 1044;
+}
+);
+}

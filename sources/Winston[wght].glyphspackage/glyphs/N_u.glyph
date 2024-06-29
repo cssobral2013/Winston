@@ -1,0 +1,50 @@
+{
+glyphname = Nu;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = N;
+scale = (1.024,1.024);
+}
+);
+width = 1492;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{759, 0}";
+},
+{
+name = top;
+position = "{759, 1507}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = N;
+scale = (1.024,1.024);
+}
+);
+width = 1472;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = N;
+scale = (1.024,1.024);
+}
+);
+width = 1460;
+}
+);
+unicode = 925;
+}

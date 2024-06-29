@@ -1,0 +1,55 @@
+{
+color = 11;
+glyphname = Cheabkhtailcyr;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = Cheabkhcyr;
+},
+{
+alignment = -1;
+pos = (1446,0);
+ref = ogonekcomb;
+}
+);
+width = 2020;
+},
+{
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = Cheabkhcyr;
+},
+{
+alignment = -1;
+pos = (1266,0);
+ref = ogonekcomb;
+}
+);
+width = 1856;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = Cheabkhcyr;
+},
+{
+alignment = -1;
+pos = (1130,0);
+ref = ogonekcomb;
+}
+);
+width = 1758;
+}
+);
+leftKerningGroup = "Cheabkhasian-cy";
+rightKerningGroup = "Es-cy";
+unicode = 1214;
+}

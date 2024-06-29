@@ -1,0 +1,75 @@
+{
+color = 11;
+glyphname = Kabashkcyr;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+pos = (276,0);
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (-32,0);
+ref = "__Kabashkir-cy";
+}
+);
+width = 1708;
+},
+{
+anchors = (
+{
+name = _topright;
+position = "{2, 1472}";
+},
+{
+name = bottomright;
+position = "{1319, 0}";
+},
+{
+name = center;
+position = "{919, 738}";
+},
+{
+name = top;
+position = "{916, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (262,0);
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (-23,0);
+ref = "__Kabashkir-cy";
+}
+);
+width = 1553;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+pos = (252,0);
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (-16,0);
+ref = "__Kabashkir-cy";
+}
+);
+width = 1460;
+}
+);
+leftKerningGroup = "Te-cy";
+rightKerningGroup = "Zhe-cy";
+unicode = 1184;
+}

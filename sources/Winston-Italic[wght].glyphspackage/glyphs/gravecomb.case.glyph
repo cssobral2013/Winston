@@ -1,0 +1,83 @@
+{
+color = 11;
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{120, 1472}";
+},
+{
+name = top;
+position = "{168, 1806}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(260.283,1598,l),
+(77.425,1956,l),
+(-284.575,1956,l),
+(16.283,1598,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{120, 1472}";
+},
+{
+name = top;
+position = "{168, 1806}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,1598,l),
+(28,1949,l),
+(-193,1949,l),
+(63,1598,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{120, 1472}";
+},
+{
+name = top;
+position = "{168, 1806}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(170.283,1598,l),
+(-14.575,1942,l),
+(-110.575,1942,l),
+(104.283,1598,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = gravecomb.case;
+rightKerningGroup = gravecomb.case;
+}

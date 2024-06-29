@@ -1,0 +1,90 @@
+{
+glyphname = icyr.loclBGR;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{578, 0}";
+},
+{
+name = ogonek;
+position = "{1046, 0}";
+},
+{
+name = top;
+position = "{722, 1010}";
+},
+{
+name = topright;
+position = "{1017, 1086}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 1342;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{545, 0}";
+},
+{
+name = ogonek;
+position = "{988, 0}";
+},
+{
+name = top;
+position = "{690, 1011}";
+},
+{
+name = topright;
+position = "{1015, 1097}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = u;
+}
+);
+width = 1272;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{526, 0}";
+},
+{
+name = ogonek;
+position = "{946, 0}";
+},
+{
+name = top;
+position = "{671, 1012}";
+},
+{
+name = topright;
+position = "{1022, 1106}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 1230;
+}
+);
+}

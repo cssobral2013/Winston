@@ -1,0 +1,49 @@
+{
+color = 11;
+glyphname = Vecyr;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1404;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{680, 0}";
+},
+{
+name = top;
+position = "{679, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1355;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1326;
+}
+);
+leftKerningGroup = "Be-cy";
+rightKerningGroup = "Ve-cy";
+unicode = 1042;
+}

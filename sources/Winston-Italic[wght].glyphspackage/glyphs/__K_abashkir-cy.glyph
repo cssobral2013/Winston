@@ -1,0 +1,82 @@
+{
+color = 11;
+export = 0;
+glyphname = "__Kabashkir-cy";
+layers = (
+{
+anchors = (
+{
+name = _topleft;
+position = "{926, 1472}";
+},
+{
+name = _topright;
+position = "{168, 1472}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(883.141,1170,l),
+(926.283,1472,l),
+(168.283,1472,l),
+(125.141,1170,l)
+);
+}
+);
+width = 832;
+},
+{
+anchors = (
+{
+name = _topleft;
+position = "{769, 1472}";
+},
+{
+name = _topright;
+position = "{144, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(744,1296,l),
+(769,1472,l),
+(144,1472,l),
+(119,1296,l)
+);
+}
+);
+width = 662;
+},
+{
+anchors = (
+{
+name = _topleft;
+position = "{654, 1472}";
+},
+{
+name = _topright;
+position = "{148, 1472}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(645.14,1408,l),
+(654.283,1472,l),
+(148.283,1472,l),
+(139.14,1408,l)
+);
+}
+);
+width = 560;
+}
+);
+}

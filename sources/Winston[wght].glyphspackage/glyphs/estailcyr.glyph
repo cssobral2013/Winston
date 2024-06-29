@@ -1,0 +1,54 @@
+{
+color = 11;
+glyphname = estailcyr;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = escyr;
+},
+{
+alignment = -1;
+pos = (146,0);
+ref = "__Zedescener-cy";
+}
+);
+width = 1120;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = escyr;
+},
+{
+alignment = -1;
+pos = (117,0);
+ref = "__Zedescener-cy";
+}
+);
+width = 1065;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = escyr;
+},
+{
+alignment = -1;
+pos = (98,0);
+ref = "__Zedescener-cy";
+}
+);
+width = 1032;
+}
+);
+leftKerningGroup = "ie-cy";
+rightKerningGroup = "es-cy";
+unicode = 1195;
+}

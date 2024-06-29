@@ -1,0 +1,84 @@
+{
+color = 11;
+glyphname = dotbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{-90, 0}";
+},
+{
+name = bottom;
+position = "{-141, -354}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5.715,-464,l),
+(49.143,-160,l),
+(-274.857,-160,l),
+(-318.285,-464,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-90, 0}";
+},
+{
+name = bottom;
+position = "{-141, -354}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-41,-405,l),
+(-11,-199,l),
+(-225,-199,l),
+(-255,-405,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-90, 0}";
+},
+{
+name = bottom;
+position = "{-141, -354}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-82.285,-352,l),
+(-65.428,-234,l),
+(-181.428,-234,l),
+(-198.285,-352,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = dotbelowcomb;
+rightKerningGroup = dotbelowcomb;
+unicode = 803;
+}

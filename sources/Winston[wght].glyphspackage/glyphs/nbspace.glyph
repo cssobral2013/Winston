@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = nbspace;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+width = 576;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+width = 522;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+width = 490;
+}
+);
+leftKerningGroup = space;
+rightKerningGroup = space;
+unicode = 160;
+}

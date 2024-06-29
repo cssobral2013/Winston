@@ -1,0 +1,65 @@
+{
+color = 11;
+glyphname = Ohorntilde;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (796,0);
+ref = tildecomb.case.O;
+}
+);
+width = 1614;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{678, 0}";
+},
+{
+name = top;
+position = "{934, 1806}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (766,0);
+ref = tildecomb.case.O;
+}
+);
+width = 1538;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (748,0);
+ref = tildecomb.case.O;
+}
+);
+width = 1492;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 7904;
+}

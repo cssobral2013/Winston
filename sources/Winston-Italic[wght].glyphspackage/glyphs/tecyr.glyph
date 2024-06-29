@@ -1,0 +1,84 @@
+{
+color = 11;
+glyphname = tecyr;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{304, 0}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(656,0,l),
+(772,814,l),
+(1130,814,l),
+(1172,1104,l),
+(86,1104,l),
+(44,814,l),
+(402,814,l),
+(286,0,l)
+);
+}
+);
+width = 1122;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{312, 0}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,0,l),
+(648,936,l),
+(1042,936,l),
+(1066,1104,l),
+(69,1104,l),
+(44,936,l),
+(438,936,l),
+(305,0,l)
+);
+}
+);
+width = 1000;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{336, 0}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(406,0,l),
+(555,1044,l),
+(981,1044,l),
+(990,1104,l),
+(70,1104,l),
+(61,1044,l),
+(487,1044,l),
+(338,0,l)
+);
+}
+);
+width = 926;
+}
+);
+leftKerningGroup = "te-cy";
+rightKerningGroup = "te-cy";
+unicode = 1090;
+}

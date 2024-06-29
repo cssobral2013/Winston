@@ -1,0 +1,69 @@
+{
+color = 11;
+glyphname = Tecyr;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{444, 0}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = T;
+}
+);
+width = 1290;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{491, 0}";
+},
+{
+name = bottom;
+position = "{606, 0}";
+},
+{
+name = center;
+position = "{605, 748}";
+},
+{
+name = top;
+position = "{605, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = T;
+}
+);
+width = 1211;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{544, 0}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = T;
+}
+);
+width = 1164;
+}
+);
+leftKerningGroup = "Te-cy";
+rightKerningGroup = "Te-cy";
+unicode = 1058;
+}

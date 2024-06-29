@@ -1,0 +1,83 @@
+{
+color = 11;
+glyphname = dotaccentcomb.i;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{54, 1010}";
+},
+{
+name = top;
+position = "{114, 1430}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(280.569,1278,l),
+(325.14,1590,l),
+(-50.86,1590,l),
+(-95.431,1278,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{54, 1010}";
+},
+{
+name = top;
+position = "{114, 1430}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(216,1316,l),
+(246,1524,l),
+(10,1524,l),
+(-20,1316,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{54, 1010}";
+},
+{
+name = top;
+position = "{114, 1430}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(158.855,1350,l),
+(175.426,1466,l),
+(63.426,1466,l),
+(46.855,1350,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = dotaccentcomb;
+rightKerningGroup = dotaccentcomb;
+}

@@ -1,0 +1,84 @@
+{
+color = 11;
+glyphname = macronmod;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{522, 1010}";
+},
+{
+name = top;
+position = "{522, 1430}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+closed = 1;
+nodes = (
+(860,1360,l),
+(860,1558,l),
+(184,1558,l),
+(184,1360,l)
+);
+}
+);
+width = 1044;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{522, 1010}";
+},
+{
+name = top;
+position = "{522, 1430}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+closed = 1;
+nodes = (
+(826,1392,l),
+(826,1522,l),
+(218,1522,l),
+(218,1392,l)
+);
+}
+);
+width = 1044;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{522, 1010}";
+},
+{
+name = top;
+position = "{522, 1430}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(796,1420,l),
+(796,1490,l),
+(248,1490,l),
+(248,1420,l)
+);
+}
+);
+width = 1044;
+}
+);
+leftKerningGroup = firsttonechinese;
+rightKerningGroup = firsttonechinese;
+unicode = 713;
+}

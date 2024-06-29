@@ -1,0 +1,41 @@
+{
+color = 10;
+glyphname = "hyphen-gnrl.case";
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+pos = (0,-130);
+ref = hyphen;
+}
+);
+width = 894;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (1,-133);
+ref = hyphen;
+}
+);
+width = 854;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+pos = (0,-136);
+ref = hyphen;
+}
+);
+width = 830;
+}
+);
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
+}

@@ -1,0 +1,79 @@
+{
+glyphname = Gamma;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{152, 0}";
+},
+{
+name = stroke;
+position = "{344, 746}";
+},
+{
+name = top;
+position = "{568, 1472}";
+}
+);
+layerId = "69DF8491-DF23-4D48-8439-A57C2757D8F5";
+name = Black.1;
+shapes = (
+{
+alignment = -1;
+ref = Gecyr;
+}
+);
+width = 1160;
+},
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Gecyr;
+scale = (1.024,1.024);
+}
+);
+width = 1120;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{84, 0}";
+},
+{
+name = stroke;
+position = "{336, 750}";
+},
+{
+name = top;
+position = "{684, 1489}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = Gecyr;
+scale = (1.011,1.011);
+}
+);
+width = 1075;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = Gecyr;
+}
+);
+width = 1048;
+}
+);
+unicode = 915;
+}

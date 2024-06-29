@@ -1,0 +1,66 @@
+{
+color = 11;
+glyphname = NJ;
+rightMetricsKey = J;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1514,0);
+ref = J;
+}
+);
+width = 2766;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{1993, 0}";
+},
+{
+name = top;
+position = "{2349, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (-9,0);
+ref = N;
+},
+{
+alignment = -1;
+pos = (1482,0);
+ref = J;
+}
+);
+width = 2612;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1460,0);
+ref = J;
+}
+);
+width = 2516;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = J;
+unicode = 458;
+}

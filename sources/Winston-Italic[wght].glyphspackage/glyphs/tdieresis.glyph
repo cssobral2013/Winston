@@ -1,0 +1,72 @@
+{
+color = 11;
+glyphname = tdieresis;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (377,-94);
+ref = dieresiscomb.case;
+}
+);
+width = 934;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{394, 0}";
+},
+{
+name = center;
+position = "{365, 602}";
+},
+{
+name = top;
+position = "{470, 1719}";
+},
+{
+name = topright;
+position = "{683, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (302,-87);
+ref = dieresiscomb.case;
+}
+);
+width = 788;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (257,-80);
+ref = dieresiscomb.case;
+}
+);
+width = 700;
+}
+);
+leftKerningGroup = t;
+rightKerningGroup = t;
+unicode = 7831;
+}

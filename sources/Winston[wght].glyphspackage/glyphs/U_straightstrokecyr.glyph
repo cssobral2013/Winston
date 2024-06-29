@@ -1,0 +1,54 @@
+{
+color = 11;
+glyphname = Ustraightstrokecyr;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = Ustraightcyr;
+},
+{
+alignment = -1;
+pos = (646,-52);
+ref = strokeshortcomb.cy;
+}
+);
+width = 1290;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = Ustraightcyr;
+},
+{
+alignment = -1;
+pos = (600,-50);
+ref = strokeshortcomb.cy;
+}
+);
+width = 1199;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = Ustraightcyr;
+},
+{
+alignment = -1;
+pos = (572,-48);
+ref = strokeshortcomb.cy;
+}
+);
+width = 1144;
+}
+);
+leftKerningGroup = "Ustrait-cy";
+rightKerningGroup = "Ustrait-cy";
+unicode = 1200;
+}

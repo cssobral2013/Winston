@@ -1,0 +1,70 @@
+{
+glyphname = upsilondieresis;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = upsilon;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (615,-48);
+ref = dieresiscomb;
+scale = (1.024,1.024);
+}
+);
+width = 1224;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{619, 980}";
+},
+{
+name = top;
+position = "{680, 1410}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = upsilon;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (563,-54);
+ref = dieresiscomb;
+scale = (1.024,1.024);
+}
+);
+width = 1147;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = upsilon;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (527,-60);
+ref = dieresiscomb;
+scale = (1.024,1.024);
+}
+);
+width = 1100;
+}
+);
+unicode = 971;
+}

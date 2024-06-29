@@ -1,0 +1,65 @@
+{
+color = 11;
+glyphname = ecircumflexhoi;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (653,-6);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1238;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{544, 0}";
+},
+{
+name = ogonek;
+position = "{739, 0}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = e;
+},
+{
+alignment = -1;
+pos = (638,-3);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1202;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (628,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 1180;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = e;
+unicode = 7875;
+}

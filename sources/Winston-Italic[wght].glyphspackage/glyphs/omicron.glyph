@@ -1,0 +1,62 @@
+{
+glyphname = omicron;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = o;
+scale = (1.024,1.024);
+}
+);
+width = 1343;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{553, 0}";
+},
+{
+name = center;
+position = "{633, 566}";
+},
+{
+name = ogonek;
+position = "{662, 0}";
+},
+{
+name = top;
+position = "{701, 1034}";
+},
+{
+name = topright;
+position = "{835, 1122}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+ref = o;
+scale = (1.024,1.024);
+}
+);
+width = 1261;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = o;
+scale = (1.024,1.024);
+}
+);
+width = 1211;
+}
+);
+unicode = 959;
+}

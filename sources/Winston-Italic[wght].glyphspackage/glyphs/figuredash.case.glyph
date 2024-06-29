@@ -1,0 +1,53 @@
+{
+color = 10;
+glyphname = figuredash.case;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1054,504,l),
+(1083,708,l),
+(139,708,l),
+(110,504,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1044,540,l),
+(1062,667,l),
+(147,667,l),
+(129,540,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1036,572,l),
+(1044,630,l),
+(154,630,l),
+(146,572,l)
+);
+}
+);
+width = 1200;
+}
+);
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
+}

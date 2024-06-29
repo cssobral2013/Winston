@@ -1,0 +1,93 @@
+{
+color = 11;
+glyphname = Oogonek;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{916, 1472}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (930,0);
+ref = ogonekcomb;
+}
+);
+width = 1614;
+},
+{
+anchors = (
+{
+name = top;
+position = "{889, 1472}";
+},
+{
+name = Qtail;
+position = "{677, -20}";
+},
+{
+name = bottom;
+position = "{679, 0}";
+},
+{
+name = center;
+position = "{785, 738}";
+},
+{
+name = topleft;
+position = "{169, 1472}";
+},
+{
+name = topright;
+position = "{1028, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (885,0);
+ref = ogonekcomb;
+}
+);
+width = 1538;
+},
+{
+anchors = (
+{
+name = top;
+position = "{868, 1472}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (854,0);
+ref = ogonekcomb;
+}
+);
+width = 1492;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 490;
+}

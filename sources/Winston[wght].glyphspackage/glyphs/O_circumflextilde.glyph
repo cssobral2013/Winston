@@ -1,0 +1,80 @@
+{
+color = 11;
+glyphname = Ocircumflextilde;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (806,0);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 1614;
+},
+{
+anchors = (
+{
+name = Qtail;
+position = "{768, -20}";
+},
+{
+name = bottom;
+position = "{768, 0}";
+},
+{
+name = center;
+position = "{769, 738}";
+},
+{
+name = ogonek;
+position = "{884, 0}";
+},
+{
+name = topleft;
+position = "{48, 1472}";
+},
+{
+name = topright;
+position = "{907, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (768,0);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 1538;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (746,0);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 1492;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 7894;
+}

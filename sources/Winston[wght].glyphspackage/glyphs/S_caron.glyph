@@ -1,0 +1,64 @@
+{
+color = 11;
+glyphname = Scaron;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (676,0);
+ref = caroncomb.case;
+}
+);
+width = 1304;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{633, 0}";
+},
+{
+name = top;
+position = "{631, 1806}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (631,0);
+ref = caroncomb.case;
+}
+);
+width = 1234;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (602,0);
+ref = caroncomb.case;
+}
+);
+width = 1192;
+}
+);
+leftKerningGroup = S;
+rightKerningGroup = S;
+unicode = 352;
+}

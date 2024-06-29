@@ -1,0 +1,83 @@
+{
+color = 11;
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{120, 1472}";
+},
+{
+name = top;
+position = "{168, 1806}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(304.568,1628,l),
+(347.996,1932,l),
+(23.996,1932,l),
+(-19.432,1628,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{120, 1472}";
+},
+{
+name = top;
+position = "{168, 1806}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,1675,l),
+(285,1880,l),
+(73,1880,l),
+(43,1675,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{120, 1472}";
+},
+{
+name = top;
+position = "{168, 1806}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(211.14,1716,l),
+(227.997,1834,l),
+(115.997,1834,l),
+(99.14,1716,l)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = dotaccentcomb.case;
+rightKerningGroup = dotaccentcomb.case;
+}

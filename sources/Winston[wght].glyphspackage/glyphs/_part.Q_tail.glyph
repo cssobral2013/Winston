@@ -1,0 +1,70 @@
+{
+color = 11;
+export = 0;
+glyphname = _part.Qtail;
+layers = (
+{
+anchors = (
+{
+name = _Qtail;
+position = "{796, 0}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+closed = 1;
+nodes = (
+(680,518,l),
+(1082,-156,l),
+(1396,-156,l),
+(988,518,l)
+);
+}
+);
+width = 1590;
+},
+{
+anchors = (
+{
+name = _Qtail;
+position = "{766, 2}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+closed = 1;
+nodes = (
+(746,433,l),
+(1112,-175,l),
+(1298,-175,l),
+(933,433,l)
+);
+}
+);
+width = 1530;
+},
+{
+anchors = (
+{
+name = _Qtail;
+position = "{748, 4}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(814,358,l),
+(1148,-192,l),
+(1220,-192,l),
+(894,358,l)
+);
+}
+);
+width = 1494;
+}
+);
+}

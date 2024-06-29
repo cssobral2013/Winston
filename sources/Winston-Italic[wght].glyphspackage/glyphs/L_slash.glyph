@@ -1,0 +1,75 @@
+{
+color = 11;
+glyphname = Lslash;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (415,8);
+ref = slashshortcomb.case;
+}
+);
+width = 1204;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{539, 0}";
+},
+{
+name = dot;
+position = "{857, 817}";
+},
+{
+name = top;
+position = "{393, 1472}";
+},
+{
+name = topright;
+position = "{726, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (10,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (364,6);
+ref = slashshortcomb.case;
+}
+);
+width = 1133;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+pos = (10,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (329,4);
+ref = slashshortcomb.case;
+}
+);
+width = 1090;
+}
+);
+leftKerningGroup = L;
+rightKerningGroup = L;
+unicode = 321;
+}

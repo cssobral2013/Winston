@@ -1,0 +1,65 @@
+{
+color = 11;
+glyphname = Ntilde;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (756,0);
+ref = tildecomb.case;
+}
+);
+width = 1514;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{650, 0}";
+},
+{
+name = top;
+position = "{908, 1806}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = N;
+},
+{
+alignment = -1;
+pos = (740,0);
+ref = tildecomb.case;
+}
+);
+width = 1479;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (730,0);
+ref = tildecomb.case;
+}
+);
+width = 1458;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = H;
+unicode = 209;
+}

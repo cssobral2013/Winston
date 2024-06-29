@@ -1,0 +1,56 @@
+{
+glyphname = Upsilon;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Y;
+scale = (1.024,1.024);
+}
+);
+width = 1254;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{531, 0}";
+},
+{
+name = top;
+position = "{744, 1507}";
+},
+{
+name = topleft;
+position = "{162, 1507}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = Y;
+scale = (1.024,1.024);
+}
+);
+width = 1238;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Y;
+scale = (1.024,1.024);
+}
+);
+width = 1228;
+}
+);
+unicode = 933;
+}

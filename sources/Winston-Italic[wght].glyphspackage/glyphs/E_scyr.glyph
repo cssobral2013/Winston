@@ -1,0 +1,61 @@
+{
+color = 11;
+glyphname = Escyr;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{724, 0}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 1374;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{684, 0}";
+},
+{
+name = top;
+position = "{895, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 1347;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{660, 0}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 1330;
+}
+);
+leftKerningGroup = "O-cy";
+rightKerningGroup = "Es-cy";
+unicode = 1057;
+}

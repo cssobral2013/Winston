@@ -1,0 +1,61 @@
+{
+color = 11;
+glyphname = xatailcyr;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = hacyr;
+},
+{
+alignment = -1;
+pos = (940,0);
+ref = "__descender-cy.cy";
+}
+);
+width = 1402;
+},
+{
+anchors = (
+{
+name = center;
+position = "{594, 558}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = hacyr;
+},
+{
+alignment = -1;
+pos = (956,0);
+ref = "__descender-cy.cy";
+}
+);
+width = 1217;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = hacyr;
+},
+{
+alignment = -1;
+pos = (986,0);
+ref = "__descender-cy.cy";
+}
+);
+width = 1106;
+}
+);
+leftKerningGroup = "ha-cy";
+rightKerningGroup = "zhedescender-cy";
+unicode = 1203;
+}

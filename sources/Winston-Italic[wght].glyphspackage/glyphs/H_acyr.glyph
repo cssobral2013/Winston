@@ -1,0 +1,77 @@
+{
+color = 11;
+glyphname = Hacyr;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{916, 0}";
+},
+{
+name = center;
+position = "{716, 758}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = X;
+}
+);
+width = 1396;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{949, 0}";
+},
+{
+name = center;
+position = "{672, 758}";
+},
+{
+name = bottom;
+position = "{566, 0}";
+},
+{
+name = top;
+position = "{775, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+ref = X;
+}
+);
+width = 1307;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{992, 0}";
+},
+{
+name = center;
+position = "{646, 758}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = X;
+}
+);
+width = 1254;
+}
+);
+leftKerningGroup = "Ha-cy";
+rightKerningGroup = "Ha-cy";
+unicode = 1061;
+}

@@ -1,0 +1,56 @@
+{
+color = 5;
+glyphname = exclamationquestion;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+pos = (124,0);
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (700,0);
+ref = question;
+}
+);
+width = 1740;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (81,0);
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (591,0);
+ref = question;
+}
+);
+width = 1511;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+pos = (66,0);
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (520,0);
+ref = question;
+}
+);
+width = 1374;
+}
+);
+rightKerningGroup = question;
+unicode = 8265;
+}

@@ -1,0 +1,107 @@
+{
+color = 11;
+glyphname = commaaccentcomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{0, -354}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,-602,l),
+(138,-516,o),
+(170,-420,o),
+(170,-292,cs),
+(170,-138,l),
+(-172,-138,l),
+(-172,-394,l),
+(64,-394,l),
+(-6,-354,l),
+(-6,-416,o),
+(-28,-470,o),
+(-82,-520,c)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{0, -354}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,-565,l),
+(83,-492,o),
+(114,-401,o),
+(114,-292,cs),
+(114,-161,l),
+(-115,-161,l),
+(-115,-349,l),
+(44,-349,l),
+(-4,-322,l),
+(-4,-392,o),
+(-21,-447,o),
+(-79,-507,c)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{0, -354}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-28,-532,l),
+(34,-470,o),
+(64,-384,o),
+(64,-292,cs),
+(64,-182,l),
+(-64,-182,l),
+(-64,-310,l),
+(26,-310,l),
+(-2,-294,l),
+(-2,-370,o),
+(-14,-426,o),
+(-76,-496,c)
+);
+}
+);
+width = 0;
+}
+);
+leftKerningGroup = commaaccentcomb;
+rightKerningGroup = commaaccentcomb;
+}

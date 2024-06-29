@@ -1,0 +1,60 @@
+{
+glyphname = Alphatonos;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+pos = (216,0);
+ref = Alpha;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (-196,0);
+ref = tonos.case;
+scale = (1.024,1.024);
+}
+);
+width = 1632;
+},
+{
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (96,0);
+ref = Alpha;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (-224,2);
+ref = tonos.case;
+scale = (1.024,1.024);
+}
+);
+width = 1412;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = Alpha;
+scale = (1.024,1.024);
+},
+{
+alignment = -1;
+pos = (-218,4);
+ref = tonos.case;
+scale = (1.024,1.024);
+}
+);
+width = 1280;
+}
+);
+unicode = 902;
+}

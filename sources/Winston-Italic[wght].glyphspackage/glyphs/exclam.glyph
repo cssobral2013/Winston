@@ -1,0 +1,81 @@
+{
+color = 11;
+glyphname = exclam;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(363.999,490,l),
+(616.283,1472,l),
+(174.283,1472,l),
+(145.999,490,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(370,0,l),
+(422.856,370,l),
+(48.856,370,l),
+(-4,0,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,404,l),
+(481,1472,l),
+(228,1472,l),
+(139,404,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(263,0,l),
+(297,241,l),
+(57,241,l),
+(23,0,l)
+);
+}
+);
+width = 468;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(188.857,328,l),
+(374.283,1472,l),
+(286.283,1472,l),
+(142.857,328,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(180,0,l),
+(198.285,128,l),
+(76.285,128,l),
+(58,0,l)
+);
+}
+);
+width = 418;
+}
+);
+leftKerningGroup = exclam;
+rightKerningGroup = exclam;
+unicode = 33;
+}

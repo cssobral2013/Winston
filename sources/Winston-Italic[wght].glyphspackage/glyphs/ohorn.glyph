@@ -1,0 +1,92 @@
+{
+color = 11;
+glyphname = ohorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{580, 0}";
+},
+{
+name = top;
+position = "{724, 1010}";
+}
+);
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (812,-2);
+ref = horncomb;
+}
+);
+width = 1342;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{540, 0}";
+},
+{
+name = top;
+position = "{684, 1010}";
+},
+{
+name = center;
+position = "{618, 553}";
+},
+{
+name = ogonek;
+position = "{646, 0}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (750,-1);
+ref = horncomb;
+}
+);
+width = 1260;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{508, 0}";
+},
+{
+name = top;
+position = "{652, 1010}";
+}
+);
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (706,0);
+ref = horncomb;
+}
+);
+width = 1210;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
+unicode = 417;
+}

@@ -1,0 +1,67 @@
+{
+color = 11;
+glyphname = aring.ss01;
+layers = (
+{
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+alignment = -1;
+pos = (690,0);
+ref = ringcomb;
+}
+);
+width = 1386;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{653, 0}";
+},
+{
+name = ogonek;
+position = "{1118, 0}";
+},
+{
+name = top;
+position = "{653, 1430}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+alignment = -1;
+pos = (653,0);
+ref = ringcomb;
+}
+);
+width = 1320;
+},
+{
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+alignment = -1;
+pos = (630,0);
+ref = ringcomb;
+}
+);
+width = 1280;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = u;
+}

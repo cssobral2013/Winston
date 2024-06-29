@@ -1,0 +1,93 @@
+{
+color = 11;
+glyphname = fl;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+position = "{718, 0}";
+}
+);
+layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+shapes = (
+{
+alignment = -1;
+ref = f.calt;
+},
+{
+alignment = -1;
+pos = (882,0);
+ref = l;
+}
+);
+width = 1648;
+},
+{
+anchors = (
+{
+name = caret_1;
+position = "{614, 0}";
+},
+{
+name = bottom;
+position = "{1175, 0}";
+},
+{
+name = center;
+position = "{1041, 811}";
+},
+{
+name = dot;
+position = "{1403, 811}";
+},
+{
+name = top;
+position = "{1019, 1472}";
+},
+{
+name = topright;
+position = "{1220, 1472}";
+}
+);
+layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = f.calt;
+},
+{
+alignment = -1;
+pos = (759,0);
+ref = l;
+}
+);
+width = 1414;
+},
+{
+anchors = (
+{
+name = caret_1;
+position = "{556, 0}";
+}
+);
+layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+shapes = (
+{
+alignment = -1;
+ref = f.calt;
+},
+{
+alignment = -1;
+pos = (670,0);
+ref = l;
+}
+);
+width = 1274;
+}
+);
+leftKerningGroup = f;
+rightKerningGroup = ltail;
+unicode = 64258;
+}

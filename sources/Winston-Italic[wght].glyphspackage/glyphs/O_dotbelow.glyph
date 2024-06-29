@@ -1,0 +1,85 @@
+{
+color = 11;
+glyphname = Odotbelow;
+layers = (
+{
+layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (806,0);
+ref = dotbelowcomb;
+}
+);
+width = 1614;
+},
+{
+anchors = (
+{
+name = Qtail;
+position = "{677, -20}";
+},
+{
+name = bottom;
+position = "{628, -354}";
+},
+{
+name = center;
+position = "{785, 738}";
+},
+{
+name = ogonek;
+position = "{795, 0}";
+},
+{
+name = top;
+position = "{889, 1472}";
+},
+{
+name = topleft;
+position = "{169, 1472}";
+},
+{
+name = topright;
+position = "{1028, 1472}";
+}
+);
+layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (769,0);
+ref = dotbelowcomb;
+}
+);
+width = 1538;
+},
+{
+layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (746,0);
+ref = dotbelowcomb;
+}
+);
+width = 1492;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 7884;
+}
