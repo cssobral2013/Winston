@@ -3,7 +3,7 @@ color = 11;
 glyphname = parenleft;
 layers = (
 {
-layerId = "64D00D61-60A2-49E9-B65E-D772ECAAFC9D";
+layerId = "C9C7DFA1-9B74-4F1F-896F-7C00CC2617F3";
 name = "Black.21년 12월 18일 16:40";
 shapes = (
 {
@@ -29,7 +29,7 @@ nodes = (
 width = 818;
 },
 {
-layerId = "163B1851-D59A-425D-A5BB-2DEF5ADBD151";
+layerId = "CF94C581-FE88-4DAC-9813-0A31BAACE10B";
 name = "Thin.21년 12월 18일 16:41";
 shapes = (
 {
@@ -55,7 +55,7 @@ nodes = (
 width = 550;
 },
 {
-layerId = "74BA431A-305A-4713-B55D-0EBBAE8D1CDE";
+layerId = "AA9127E2-66D7-45E5-8D77-9FE81E534461";
 shapes = (
 {
 closed = 1;
@@ -80,7 +80,7 @@ nodes = (
 width = 818;
 },
 {
-layerId = "0037C824-E55C-4C72-8B66-C5A151689C78";
+layerId = "780D6C53-D363-41D3-A45B-4CEB198897BB";
 shapes = (
 {
 closed = 1;
@@ -105,7 +105,7 @@ nodes = (
 width = 651;
 },
 {
-layerId = "6219A2BD-1940-4437-A1C4-EF2412E3F892";
+layerId = "15DD03C9-6E3F-4F53-9575-CC59ABE7D50E";
 shapes = (
 {
 closed = 1;

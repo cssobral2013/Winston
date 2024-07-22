@@ -2,7 +2,7 @@
 glyphname = five.superior;
 layers = (
 {
-layerId = "A6805B89-47EA-471F-88E2-6C6BDB91AD06";
+layerId = "B0FE6CA3-3B5A-43B9-ADCC-06CF5CDDB79F";
 shapes = (
 {
 alignment = -1;
@@ -13,7 +13,7 @@ ref = five.dnom;
 width = 794;
 },
 {
-layerId = "74EDEEDC-441F-4395-93E2-DA3D8F4EBC35";
+layerId = "FE1B4F78-E1AE-46DB-B09E-A4EC5EE567EB";
 shapes = (
 {
 alignment = -1;
@@ -24,7 +24,7 @@ ref = five.dnom;
 width = 794;
 },
 {
-layerId = "5CA5D978-5DFF-4019-A5DD-99A0755926E0";
+layerId = "958021ED-7CC5-4835-9393-1BA2EA52DC8F";
 shapes = (
 {
 alignment = -1;
