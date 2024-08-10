@@ -3,7 +3,7 @@ color = 11;
 glyphname = Decyr;
 layers = (
 {
-layerId = "AA9127E2-66D7-45E5-8D77-9FE81E534461";
+layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
 shapes = (
 {
 closed = 1;
@@ -41,7 +41,7 @@ nodes = (
 width = 1648;
 },
 {
-layerId = "780D6C53-D363-41D3-A45B-4CEB198897BB";
+layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
 shapes = (
 {
 closed = 1;
@@ -79,7 +79,7 @@ nodes = (
 width = 1562;
 },
 {
-layerId = "15DD03C9-6E3F-4F53-9575-CC59ABE7D50E";
+layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
 shapes = (
 {
 closed = 1;

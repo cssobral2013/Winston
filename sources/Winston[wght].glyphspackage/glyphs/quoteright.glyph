@@ -3,8 +3,8 @@ color = 11;
 glyphname = quoteright;
 layers = (
 {
-layerId = "DDC6A14E-F180-4BAE-BB72-B1C34AE4E35C";
-associatedMasterId = "B0FE6CA3-3B5A-43B9-ADCC-06CF5CDDB79F";
+layerId = "92695B19-37D3-4596-B51B-FFFA8A4E61DF";
+associatedMasterId = "7B66E43B-35BC-4CDD-B71B-7D56A9572330";
 name = "21년 12월 18일 14:23";
 shapes = (
 {
@@ -28,7 +28,7 @@ nodes = (
 width = 550;
 },
 {
-layerId = "B0FE6CA3-3B5A-43B9-ADCC-06CF5CDDB79F";
+layerId = "7B66E43B-35BC-4CDD-B71B-7D56A9572330";
 shapes = (
 {
 closed = 1;
@@ -43,7 +43,7 @@ nodes = (
 width = 550;
 },
 {
-layerId = "FE1B4F78-E1AE-46DB-B09E-A4EC5EE567EB";
+layerId = "FC5D3D8C-AB50-41A9-8405-C9FF1CAE1726";
 shapes = (
 {
 closed = 1;
@@ -58,8 +58,8 @@ nodes = (
 width = 468;
 },
 {
-layerId = "AD43C227-0844-4035-8B7A-419379173338";
-associatedMasterId = "958021ED-7CC5-4835-9393-1BA2EA52DC8F";
+layerId = "F87AA88E-2FE3-4383-9428-897A8B168AE8";
+associatedMasterId = "EA701F3C-7533-4E12-969A-F8F539424701";
 name = "21년 12월 18일 14:25";
 shapes = (
 {
@@ -83,7 +83,7 @@ nodes = (
 width = 418;
 },
 {
-layerId = "958021ED-7CC5-4835-9393-1BA2EA52DC8F";
+layerId = "EA701F3C-7533-4E12-969A-F8F539424701";
 shapes = (
 {
 closed = 1;
