@@ -3,59 +3,62 @@ color = 11;
 glyphname = Wacute;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = W;
 },
 {
 alignment = -1;
-pos = (1076,0);
+pos = (1249,0);
 ref = acutecomb.case;
 }
 );
-width = 2090;
+width = 2091;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{894, 0}";
+position = "{1157, 0}";
 },
 {
 name = top;
-position = "{1212, 1806}";
+position = "{1475, 1806}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = W;
 },
 {
 alignment = -1;
-pos = (1044,0);
+pos = (1217,0);
 ref = acutecomb.case;
 }
 );
-width = 1971;
+width = 1972;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = W;
 },
 {
 alignment = -1;
-pos = (1032,0);
+pos = (1205,0);
 ref = acutecomb.case;
 }
 );
-width = 1900;
+width = 1901;
 }
 );
 leftKerningGroup = V;

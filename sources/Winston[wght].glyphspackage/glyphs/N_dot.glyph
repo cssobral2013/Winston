@@ -3,7 +3,7 @@ color = 11;
 glyphname = Ndot;
 layers = (
 {
-layerId = "7B66E43B-35BC-4CDD-B71B-7D56A9572330";
+layerId = "A06B8506-BBE1-4A28-92E2-491406422708";
 shapes = (
 {
 alignment = -1;
@@ -28,7 +28,7 @@ name = top;
 position = "{739, 1806}";
 }
 );
-layerId = "FC5D3D8C-AB50-41A9-8405-C9FF1CAE1726";
+layerId = "2D3E1F4A-4F79-435C-922D-C1502E296E5C";
 shapes = (
 {
 alignment = -1;
@@ -43,7 +43,7 @@ ref = dotaccentcomb.case;
 width = 1479;
 },
 {
-layerId = "EA701F3C-7533-4E12-969A-F8F539424701";
+layerId = "F480A0F6-CE20-4515-90A8-C409EEC2FB0B";
 shapes = (
 {
 alignment = -1;

@@ -3,60 +3,62 @@ color = 11;
 glyphname = ecircumflexhoi;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (54,0);
 ref = e;
 },
 {
 alignment = -1;
-pos = (653,-6);
+pos = (707,-6);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1238;
+width = 1300;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{544, 0}";
+position = "{689, 0}";
 },
 {
 name = ogonek;
-position = "{739, 0}";
+position = "{884, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (56,0);
 ref = e;
 },
 {
 alignment = -1;
-pos = (638,-3);
+pos = (693,-3);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1202;
+width = 1263;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (57,0);
 ref = e;
 },
 {
 alignment = -1;
-pos = (628,0);
+pos = (685,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 1180;
+width = 1240;
 }
 );
 leftKerningGroup = o;

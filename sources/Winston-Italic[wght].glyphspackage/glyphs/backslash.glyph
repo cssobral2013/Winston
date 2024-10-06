@@ -3,49 +3,49 @@ color = 11;
 glyphname = backslash;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(639,-92,l),
-(363,1604,l),
-(91,1530,l),
-(366,-170,l)
+(691,-92,l),
+(415,1604,l),
+(143,1530,l),
+(418,-170,l)
 );
 }
 );
-width = 704;
+width = 705;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(520,-93,l),
-(247,1576,l),
-(83,1531,l),
-(356,-138,l)
+(572,-93,l),
+(299,1576,l),
+(135,1531,l),
+(408,-138,l)
 );
 }
 );
-width = 579;
+width = 580;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(433,-94,l),
-(164,1552,l),
-(95,1532,l),
-(366,-110,l)
+(485,-94,l),
+(216,1552,l),
+(147,1532,l),
+(418,-110,l)
 );
 }
 );
-width = 504;
+width = 505;
 }
 );
 leftKerningGroup = backslash;

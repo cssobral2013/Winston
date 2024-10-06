@@ -2,49 +2,49 @@
 glyphname = lownumeralsign;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(224,294,l),
-(-44,-184,l),
-(233,-232,l),
-(406,254,l)
+(276,294,l),
+(8,-184,l),
+(285,-232,l),
+(458,254,l)
 );
 }
 );
 width = 622;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(229,279,l),
-(-8,-183,l),
-(159,-210,l),
-(327,256,l)
+(281,279,l),
+(45,-183,l),
+(211,-210,l),
+(380,256,l)
 );
 }
 );
-width = 553;
+width = 554;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(244,266,l),
-(36,-182,l),
-(105,-190,l),
-(269,258,l)
+(296,266,l),
+(88,-182,l),
+(157,-190,l),
+(321,258,l)
 );
 }
 );
-width = 512;
+width = 513;
 }
 );
 unicode = 885;

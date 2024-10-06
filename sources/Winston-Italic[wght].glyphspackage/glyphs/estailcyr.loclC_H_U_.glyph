@@ -3,49 +3,52 @@ color = 11;
 glyphname = estailcyr.loclCHU;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (55,0);
 ref = escyr;
 },
 {
 alignment = -1;
-pos = (668,0);
+pos = (723,0);
 ref = cedillacomb;
 }
 );
-width = 1118;
+width = 1197;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (56,0);
 ref = escyr;
 },
 {
 alignment = -1;
-pos = (639,0);
+pos = (695,0);
 ref = cedillacomb;
 }
 );
-width = 1064;
+width = 1141;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (58,0);
 ref = escyr;
 },
 {
 alignment = -1;
-pos = (620,0);
+pos = (678,0);
 ref = cedillacomb;
 }
 );
-width = 1032;
+width = 1108;
 }
 );
 leftKerningGroup = "ie-cy";

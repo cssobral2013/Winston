@@ -3,60 +3,62 @@ color = 11;
 glyphname = Rdblgrave;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = R;
 },
 {
 alignment = -1;
-pos = (714,0);
+pos = (887,0);
 ref = dblgravecomb.case;
 }
 );
-width = 1414;
+width = 1625;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{594, 0}";
+position = "{856, 0}";
 },
 {
 name = top;
-position = "{852, 1806}";
+position = "{1114, 1806}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (173,0);
 ref = R;
 },
 {
 alignment = -1;
-pos = (684,0);
+pos = (856,0);
 ref = dblgravecomb.case;
 }
 );
-width = 1344;
+width = 1555;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = R;
 },
 {
 alignment = -1;
-pos = (666,0);
+pos = (839,0);
 ref = dblgravecomb.case;
 }
 );
-width = 1302;
+width = 1513;
 }
 );
 leftKerningGroup = H;

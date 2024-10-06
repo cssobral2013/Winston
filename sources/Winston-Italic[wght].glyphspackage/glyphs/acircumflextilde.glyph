@@ -3,60 +3,62 @@ color = 11;
 glyphname = acircumflextilde;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (64,0);
 ref = a;
 },
 {
 alignment = -1;
-pos = (642,0);
+pos = (706,0);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 1266;
+width = 1368;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{516, 0}";
+position = "{665, 0}";
 },
 {
 name = ogonek;
-position = "{909, 0}";
+position = "{1058, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (60,0);
 ref = a;
 },
 {
 alignment = -1;
-pos = (613,0);
+pos = (672,0);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 1197;
+width = 1295;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (59,0);
 ref = a;
 },
 {
 alignment = -1;
-pos = (596,0);
+pos = (655,0);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 1156;
+width = 1253;
 }
 );
 leftKerningGroup = a;

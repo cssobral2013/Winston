@@ -4,50 +4,65 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+position = "{788, 0}";
+},
+{
 name = top;
-position = "{750, 1010}";
+position = "{932, 1010}";
 }
 );
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (56,0);
 ref = g;
 }
 );
-width = 1396;
+width = 1480;
 },
 {
 anchors = (
 {
+name = bottom;
+position = "{728, 0}";
+},
+{
 name = top;
-position = "{721, 1010}";
+position = "{868, 1010}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (57,0);
 ref = g;
 }
 );
-width = 1325;
+width = 1424;
 },
 {
 anchors = (
 {
+name = bottom;
+position = "{685, 0}";
+},
+{
 name = top;
-position = "{704, 1010}";
+position = "{829, 1010}";
 }
 );
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (58,0);
 ref = g;
 }
 );
-width = 1282;
+width = 1381;
 }
 );
 }

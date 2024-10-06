@@ -3,104 +3,96 @@ color = 11;
 glyphname = semicolon;
 layers = (
 {
-layerId = "704F8ECC-47CF-446D-B14F-476EEF11F321";
-name = "Black.21년 12월 18일 14:29";
+layerId = "50BF19E6-10F4-4229-8E74-BD078C5D1E8D";
+associatedMasterId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
+name = "21년 12월 18일 14:29";
 shapes = (
 {
-closed = 1;
-nodes = (
-(81,-376,l),
-(382,260,l),
-(12,260,l),
-(-165,-376,l)
-);
+alignment = -1;
+ref = comma;
 }
 );
 width = 550;
 },
 {
-layerId = "4CBFFFDF-A6E4-48EA-9D14-E0AE98B875E5";
-name = "Thin.21년 12월 18일 14:30";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(27,-376,l),
-(246,172,l),
-(170,172,l),
-(-23,-376,l)
+(507,750,l),
+(560,1122,l),
+(186,1122,l),
+(133,750,l)
 );
+},
+{
+closed = 1;
+nodes = (
+(135,-376,l),
+(436,260,l),
+(66,260,l),
+(-111,-376,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,869,l),
+(492,1111,l),
+(252,1111,l),
+(217,869,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(106,-376,l),
+(363,213,l),
+(149,213,l),
+(-36,-376,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "1027DBF5-5889-46AB-91FF-16797C8F2F40";
+associatedMasterId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
+name = "21년 12월 18일 14:30";
+shapes = (
+{
+alignment = -1;
+ref = comma;
 }
 );
 width = 418;
 },
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(454,750,l),
-(507,1122,l),
-(133,1122,l),
-(80,750,l)
+(413,974,l),
+(431,1102,l),
+(309,1102,l),
+(291,974,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(82,-376,l),
-(383,260,l),
-(13,260,l),
-(-164,-376,l)
-);
-}
-);
-width = 500;
-},
-{
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
-shapes = (
-{
-closed = 1;
-nodes = (
-(404,869,l),
-(438,1111,l),
-(198,1111,l),
-(164,869,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(53,-376,l),
-(310,213,l),
-(96,213,l),
-(-89,-376,l)
-);
-}
-);
-width = 500;
-},
-{
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
-shapes = (
-{
-closed = 1;
-nodes = (
-(360,974,l),
-(378,1102,l),
-(256,1102,l),
-(238,974,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(27,-376,l),
-(246,172,l),
-(170,172,l),
-(-23,-376,l)
+(80,-376,l),
+(299,172,l),
+(223,172,l),
+(30,-376,l)
 );
 }
 );

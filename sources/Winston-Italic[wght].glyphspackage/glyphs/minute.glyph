@@ -3,49 +3,49 @@ color = 11;
 glyphname = minute;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(419.427,836,l),
-(596.283,1472,l),
-(186.283,1472,l),
-(181.427,836,l)
+(472,836,l),
+(649,1472,l),
+(239,1472,l),
+(234,836,l)
 );
 }
 );
-width = 542;
+width = 543;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(332,883,l),
-(466,1472,l),
-(228,1472,l),
-(195,883,l)
+(385,883,l),
+(519,1472,l),
+(281,1472,l),
+(248,883,l)
 );
 }
 );
-width = 453;
+width = 454;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(267.998,924,l),
-(364.283,1472,l),
-(278.283,1472,l),
-(219.998,924,l)
+(321,924,l),
+(417,1472,l),
+(331,1472,l),
+(273,924,l)
 );
 }
 );
-width = 400;
+width = 401;
 }
 );
 leftKerningGroup = quotesingle;

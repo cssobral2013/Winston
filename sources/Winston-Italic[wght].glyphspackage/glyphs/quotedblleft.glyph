@@ -3,52 +3,52 @@ color = 11;
 glyphname = quotedblleft;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (14,0);
+pos = (112,0);
 ref = quoteleft;
 },
 {
 alignment = -1;
-pos = (474,0);
+pos = (572,0);
 ref = quoteleft;
 }
 );
-width = 1010;
+width = 925;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
+pos = (99,0);
 ref = quoteleft;
 },
 {
 alignment = -1;
-pos = (357,0);
+pos = (457,0);
 ref = quoteleft;
 }
 );
-width = 808;
+width = 724;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (105,0);
 ref = quoteleft;
 },
 {
 alignment = -1;
-pos = (270,0);
+pos = (373,0);
 ref = quoteleft;
 }
 );
-width = 686;
+width = 609;
 }
 );
 leftKerningGroup = quoteleft;

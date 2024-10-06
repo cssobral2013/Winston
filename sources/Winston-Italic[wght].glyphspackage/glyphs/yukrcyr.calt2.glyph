@@ -5,35 +5,35 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{440, 1430}";
+position = "{492, 1430}";
 },
 {
 name = bottom;
-position = "{238, 0}";
+position = "{290, 0}";
 },
 {
 name = ogonek;
-position = "{338, 0}";
+position = "{390, 0}";
 }
 );
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(422,0,l),
-(580,1104,l),
-(210,1104,l),
-(52,0,l)
+(474,0,l),
+(632,1104,l),
+(262,1104,l),
+(104,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(775,1296,l),
-(818,1596,l),
-(520,1596,l),
-(477,1296,l)
+(827,1296,l),
+(870,1596,l),
+(572,1596,l),
+(529,1296,l)
 );
 }
 );
@@ -43,77 +43,77 @@ width = 652;
 anchors = (
 {
 name = top;
-position = "{384, 1430}";
+position = "{436, 1430}";
 },
 {
 name = bottom;
-position = "{181, 0}";
+position = "{233, 0}";
 },
 {
 name = ogonek;
-position = "{250, 0}";
+position = "{302, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(285,0,l),
-(443,1104,l),
-(235,1104,l),
-(77,0,l)
+(337,0,l),
+(495,1104,l),
+(287,1104,l),
+(129,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(649,1324,l),
-(678,1524,l),
-(477,1524,l),
-(449,1324,l)
+(701,1324,l),
+(730,1524,l),
+(530,1524,l),
+(501,1324,l)
 );
 }
 );
-width = 540;
+width = 541;
 },
 {
 anchors = (
 {
 name = top;
-position = "{350, 1430}";
+position = "{402, 1430}";
 },
 {
 name = bottom;
-position = "{146, 0}";
+position = "{198, 0}";
 },
 {
 name = ogonek;
-position = "{188, 0}";
+position = "{240, 0}";
 }
 );
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(180,0,l),
-(338,1104,l),
-(272,1104,l),
-(114,0,l)
+(232,0,l),
+(390,1104,l),
+(324,1104,l),
+(166,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(553,1348,l),
-(569,1460,l),
-(455,1460,l),
-(439,1348,l)
+(605,1348,l),
+(621,1460,l),
+(507,1460,l),
+(491,1348,l)
 );
 }
 );
-width = 472;
+width = 473;
 }
 );
 }

@@ -3,49 +3,49 @@ color = 11;
 glyphname = verticallinelowmod;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(459,-564,l),
-(521,-132,l),
-(305,-132,l),
-(243,-564,l)
+(512,-564,l),
+(574,-132,l),
+(358,-132,l),
+(296,-564,l)
 );
 }
 );
-width = 1044;
+width = 1045;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(422,-564,l),
-(483,-142,l),
-(341,-142,l),
-(280,-564,l)
+(475,-564,l),
+(536,-142,l),
+(394,-142,l),
+(333,-564,l)
 );
 }
 );
-width = 1044;
+width = 1046;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(389,-564,l),
-(449,-150,l),
-(373,-150,l),
-(313,-564,l)
+(442,-564,l),
+(502,-150,l),
+(426,-150,l),
+(366,-564,l)
 );
 }
 );
-width = 1044;
+width = 1046;
 }
 );
 leftKerningGroup = verticallinelowmod;

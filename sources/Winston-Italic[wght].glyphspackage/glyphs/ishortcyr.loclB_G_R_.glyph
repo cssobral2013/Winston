@@ -1,86 +1,79 @@
 {
 glyphname = ishortcyr.loclBGR;
-widthMetricsKey = u;
 layers = (
 {
 anchors = (
 {
-name = _top;
-position = "{54, 1010}";
-}
-);
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
-shapes = (
-{
-alignment = -1;
-pos = (680,0);
-ref = "brevecomb-cy";
-},
-{
-alignment = -1;
-ref = u;
-}
-);
-width = 1342;
-},
-{
-anchors = (
-{
-name = _top;
-position = "{692, 1010}";
-},
-{
-name = bottom;
-position = "{545, 0}";
-},
-{
-name = ogonek;
-position = "{988, 0}";
+name = bottomright;
+position = "{1048, 0}";
 },
 {
 name = top;
-position = "{690, 1011}";
-},
-{
-name = topright;
-position = "{1015, 1097}";
+position = "{1024, 1430}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (638,0);
-ref = "brevecomb-cy";
+pos = (120,0);
+ref = icyr.loclBGR;
 },
 {
 alignment = -1;
-pos = (1,0);
-ref = u;
+pos = (800,0);
+ref = "brevecomb-cy";
 }
 );
-width = 1272;
+width = 1558;
 },
 {
 anchors = (
 {
-name = _top;
-position = "{54, 1010}";
+name = bottomright;
+position = "{1082, 0}";
 }
 );
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (610,0);
-ref = "brevecomb-cy";
+pos = (120,0);
+ref = icyr.loclBGR;
 },
 {
 alignment = -1;
-ref = u;
+pos = (758,0);
+ref = "brevecomb-cy";
 }
 );
-width = 1230;
+width = 1477;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{1124, 0}";
+},
+{
+name = top;
+position = "{956, 1430}";
+}
+);
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
+shapes = (
+{
+alignment = -1;
+pos = (120,0);
+ref = icyr.loclBGR;
+},
+{
+alignment = -1;
+pos = (732,0);
+ref = "brevecomb-cy";
+}
+);
+width = 1428;
 }
 );
 }

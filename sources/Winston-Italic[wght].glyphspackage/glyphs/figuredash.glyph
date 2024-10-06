@@ -3,49 +3,49 @@ color = 11;
 glyphname = figuredash;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1073,634,l),
-(1102,838,l),
-(158,838,l),
-(129,634,l)
+(1125,634,l),
+(1154,838,l),
+(210,838,l),
+(181,634,l)
 );
 }
 );
-width = 1200;
+width = 1201;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1063,673,l),
-(1081,800,l),
-(166,800,l),
-(148,673,l)
+(1116,673,l),
+(1134,800,l),
+(219,800,l),
+(201,673,l)
 );
 }
 );
-width = 1200;
+width = 1201;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1055,708,l),
-(1063,766,l),
-(173,766,l),
-(165,708,l)
+(1108,708,l),
+(1116,766,l),
+(226,766,l),
+(218,708,l)
 );
 }
 );
-width = 1200;
+width = 1201;
 }
 );
 leftKerningGroup = hyphen;

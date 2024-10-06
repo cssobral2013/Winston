@@ -3,63 +3,66 @@ color = 11;
 glyphname = tcaron;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = t;
 },
 {
 alignment = -1;
-pos = (672,0);
+pos = (792,0);
 ref = caroncomb.alt.t;
 }
 );
-width = 934;
+width = 1088;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{394, 0}";
+position = "{604, 0}";
 },
 {
 name = center;
-position = "{365, 602}";
+position = "{576, 602}";
 },
 {
 name = top;
-position = "{422, 1385}";
+position = "{632, 1385}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = t;
 },
 {
 alignment = -1;
-pos = (565,0);
+pos = (685,0);
 ref = caroncomb.alt.t;
 }
 );
-width = 788;
+width = 943;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = t;
 },
 {
 alignment = -1;
-pos = (492,0);
+pos = (612,0);
 ref = caroncomb.alt.t;
 }
 );
-width = 700;
+width = 856;
 }
 );
 leftKerningGroup = t;

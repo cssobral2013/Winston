@@ -2,57 +2,57 @@
 glyphname = etatonos;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (123,0);
 ref = eta;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (161,-4);
+pos = (282,-4);
 ref = tonos;
 scale = (1.024,1.024);
 }
 );
-width = 1234;
+width = 1452;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (3,0);
+pos = (125,0);
 ref = eta;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (180,-2);
+pos = (303,-2);
 ref = tonos;
 scale = (1.011,1.011);
 }
 );
-width = 1157;
+width = 1376;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (123,0);
 ref = eta;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (204,0);
+pos = (327,0);
 ref = tonos;
 }
 );
-width = 1110;
+width = 1329;
 }
 );
 unicode = 942;

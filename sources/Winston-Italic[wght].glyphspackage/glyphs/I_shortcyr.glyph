@@ -3,56 +3,58 @@ color = 11;
 glyphname = Ishortcyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = Icyr;
 },
 {
 alignment = -1;
-pos = (756,0);
+pos = (929,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1514;
+width = 1725;
 },
 {
 anchors = (
 {
 name = bottomright;
-position = "{1031, 0}";
+position = "{1293, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (173,0);
 ref = Icyr;
 },
 {
 alignment = -1;
-pos = (740,0);
+pos = (912,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1479;
+width = 1690;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = Icyr;
 },
 {
 alignment = -1;
-pos = (730,0);
+pos = (903,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1458;
+width = 1669;
 }
 );
 leftKerningGroup = "Be-cy";

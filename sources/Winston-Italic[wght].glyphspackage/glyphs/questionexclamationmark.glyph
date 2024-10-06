@@ -3,52 +3,52 @@ color = 5;
 glyphname = questionexclamationmark;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (1066,0);
+pos = (1219,0);
 ref = exclam;
 },
 {
 alignment = -1;
-pos = (34,0);
+pos = (187,0);
 ref = question;
 }
 );
-width = 1740;
+width = 1895;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (963,0);
+pos = (1112,0);
 ref = exclam;
 },
 {
 alignment = -1;
-pos = (14,0);
+pos = (163,0);
 ref = question;
 }
 );
-width = 1511;
+width = 1691;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (892,0);
+pos = (1040,0);
 ref = exclam;
 },
 {
 alignment = -1;
-pos = (18,0);
+pos = (166,0);
 ref = question;
 }
 );
-width = 1374;
+width = 1560;
 }
 );
 rightKerningGroup = exclam;

@@ -2,58 +2,58 @@
 glyphname = Omicrontonos;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (258,0);
+pos = (340,0);
 ref = Omicron;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (-272,0);
+pos = (-190,0);
 ref = tonos.case;
 scale = (1.024,1.024);
 }
 );
-width = 1778;
+width = 1801;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (168,0);
+pos = (255,0);
 ref = Omicron;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (-321,0);
+pos = (-234,0);
 ref = tonos.case;
 scale = (1.024,1.024);
 }
 );
-width = 1639;
+width = 1670;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (98,0);
+pos = (186,0);
 ref = Omicron;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (-346,0);
+pos = (-258,0);
 ref = tonos.case;
 scale = (1.024,1.024);
 }
 );
-width = 1556;
+width = 1592;
 }
 );
 unicode = 908;

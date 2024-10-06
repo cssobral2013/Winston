@@ -2,40 +2,40 @@
 glyphname = tonos.case;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (-22,-170);
+pos = (122,-170);
 ref = tonos;
 scale = (1.024,1.024);
 }
 );
-width = 888;
+width = 835;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (-19,-157);
+pos = (123,-157);
 ref = tonos;
 scale = (1.024,1.024);
 }
 );
-width = 879;
+width = 826;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (-19,-146);
+pos = (122,-146);
 ref = tonos;
 scale = (1.024,1.024);
 }
 );
-width = 874;
+width = 820;
 }
 );
 }

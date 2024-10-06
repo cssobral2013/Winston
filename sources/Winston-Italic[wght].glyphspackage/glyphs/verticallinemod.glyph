@@ -3,49 +3,49 @@ color = 11;
 glyphname = verticallinemod;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(730,1332,l),
-(787,1728,l),
-(571,1728,l),
-(514,1332,l)
+(783,1332,l),
+(840,1728,l),
+(624,1728,l),
+(567,1332,l)
 );
 }
 );
-width = 1044;
+width = 1046;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(693,1335,l),
-(749,1721,l),
-(607,1721,l),
-(552,1335,l)
+(746,1335,l),
+(801,1721,l),
+(659,1721,l),
+(604,1335,l)
 );
 }
 );
-width = 1044;
+width = 1045;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(661,1338,l),
-(715,1714,l),
-(639,1714,l),
-(585,1338,l)
+(714,1338,l),
+(768,1714,l),
+(692,1714,l),
+(638,1338,l)
 );
 }
 );
-width = 1044;
+width = 1046;
 }
 );
 leftKerningGroup = verticallinemod;

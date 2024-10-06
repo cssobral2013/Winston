@@ -3,64 +3,66 @@ color = 11;
 glyphname = Chedieresiscyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = Checyr;
 },
 {
 alignment = -1;
-pos = (694,0);
+pos = (867,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1442;
+width = 1653;
 },
 {
 anchors = (
 {
 name = bottomright;
-position = "{908, 0}";
+position = "{1170, 0}";
 },
 {
 name = center;
-position = "{603, 616}";
+position = "{865, 616}";
 },
 {
 name = top;
-position = "{809, 1806}";
+position = "{1071, 1806}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (173,0);
 ref = Checyr;
 },
 {
 alignment = -1;
-pos = (641,0);
+pos = (813,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1357;
+width = 1568;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (173,0);
 ref = Checyr;
 },
 {
 alignment = -1;
-pos = (606,0);
+pos = (779,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1306;
+width = 1517;
 }
 );
 leftKerningGroup = "Che-cy";

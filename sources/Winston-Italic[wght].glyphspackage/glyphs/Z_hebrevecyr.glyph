@@ -3,55 +3,58 @@ color = 11;
 glyphname = Zhebrevecyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (103,0);
 ref = Zhecyr;
 },
 {
 alignment = -1;
-pos = (1070,0);
+pos = (1173,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 2138;
+width = 2279;
 },
 {
 anchors = (
 {
 name = bottomright;
-position = "{1628, 0}";
+position = "{1817, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (99,0);
 ref = Zhecyr;
 },
 {
 alignment = -1;
-pos = (974,0);
+pos = (1073,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1949;
+width = 2086;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (97,0);
 ref = Zhecyr;
 },
 {
 alignment = -1;
-pos = (918,0);
+pos = (1015,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1836;
+width = 1971;
 }
 );
 leftKerningGroup = "Zhe-cy";

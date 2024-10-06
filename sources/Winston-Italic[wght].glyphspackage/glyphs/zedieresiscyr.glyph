@@ -3,60 +3,62 @@ color = 11;
 glyphname = zedieresiscyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (90,0);
 ref = zecyr;
 },
 {
 alignment = -1;
-pos = (598,14);
+pos = (688,14);
 ref = dieresiscomb;
 }
 );
-width = 1214;
+width = 1301;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{467, 0}";
+position = "{643, 0}";
 },
 {
 name = top;
-position = "{668, 1436}";
+position = "{844, 1436}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (87,0);
 ref = zecyr;
 },
 {
 alignment = -1;
-pos = (554,6);
+pos = (640,6);
 ref = dieresiscomb;
 }
 );
-width = 1122;
+width = 1207;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (85,0);
 ref = zecyr;
 },
 {
 alignment = -1;
-pos = (526,-2);
+pos = (611,-2);
 ref = dieresiscomb;
 }
 );
-width = 1066;
+width = 1151;
 }
 );
 leftKerningGroup = "ze-cy";

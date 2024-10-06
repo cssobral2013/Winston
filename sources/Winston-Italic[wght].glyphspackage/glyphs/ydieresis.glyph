@@ -3,60 +3,62 @@ color = 11;
 glyphname = ydieresis;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = y;
 },
 {
 alignment = -1;
-pos = (606,0);
+pos = (726,0);
 ref = dieresiscomb;
 }
 );
-width = 1208;
+width = 1209;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{799, 0}";
+position = "{1008, 0}";
 },
 {
 name = top;
-position = "{697, 1430}";
+position = "{906, 1430}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (120,0);
 ref = y;
 },
 {
 alignment = -1;
-pos = (583,0);
+pos = (702,0);
 ref = dieresiscomb;
 }
 );
-width = 1161;
+width = 1162;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = y;
 },
 {
 alignment = -1;
-pos = (568,0);
+pos = (688,0);
 ref = dieresiscomb;
 }
 );
-width = 1132;
+width = 1133;
 }
 );
 leftKerningGroup = v;

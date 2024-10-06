@@ -3,49 +3,49 @@ color = 11;
 glyphname = bar;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(383,-188,l),
-(647,1660,l),
-(285,1660,l),
-(21,-188,l)
+(436,-188,l),
+(700,1660,l),
+(338,1660,l),
+(74,-188,l)
 );
 }
 );
-width = 638;
+width = 639;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(257,-188,l),
-(521,1660,l),
-(315,1660,l),
-(51,-188,l)
+(310,-188,l),
+(574,1660,l),
+(368,1660,l),
+(104,-188,l)
 );
 }
 );
-width = 542;
+width = 543;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(159,-188,l),
-(423,1660,l),
-(355,1660,l),
-(91,-188,l)
+(212,-188,l),
+(476,1660,l),
+(408,1660,l),
+(144,-188,l)
 );
 }
 );
-width = 484;
+width = 485;
 }
 );
 leftKerningGroup = H;

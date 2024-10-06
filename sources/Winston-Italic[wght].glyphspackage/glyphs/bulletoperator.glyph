@@ -3,49 +3,49 @@ color = 11;
 glyphname = bulletoperator;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(775,552,l),
-(828,922,l),
-(456,922,l),
-(403,552,l)
+(827,552,l),
+(880,922,l),
+(508,922,l),
+(455,552,l)
 );
 }
 );
-width = 1200;
+width = 1201;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(719,616,l),
-(754,857,l),
-(512,857,l),
-(478,616,l)
+(772,616,l),
+(806,857,l),
+(565,857,l),
+(531,616,l)
 );
 }
 );
-width = 1200;
+width = 1201;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(670,672,l),
-(688,800,l),
-(562,800,l),
-(544,672,l)
+(723,672,l),
+(741,800,l),
+(615,800,l),
+(597,672,l)
 );
 }
 );
-width = 1200;
+width = 1201;
 }
 );
 unicode = 8729;

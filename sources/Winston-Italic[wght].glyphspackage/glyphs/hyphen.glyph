@@ -3,49 +3,49 @@ color = 11;
 glyphname = hyphen;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(823.999,602,l),
-(862.284,870,l),
-(162.284,870,l),
-(123.999,602,l)
+(877,602,l),
+(915,870,l),
+(215,870,l),
+(177,602,l)
 );
 }
 );
-width = 956;
+width = 957;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(775,657,l),
-(797,815,l),
-(165,815,l),
-(143,657,l)
+(827,657,l),
+(849,815,l),
+(217,815,l),
+(195,657,l)
 );
 }
 );
-width = 909;
+width = 910;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(736.856,706,l),
-(745.427,766,l),
-(173.427,766,l),
-(164.856,706,l)
+(790,706,l),
+(798,766,l),
+(226,766,l),
+(218,706,l)
 );
 }
 );
-width = 880;
+width = 881;
 }
 );
 leftKerningGroup = hyphen;

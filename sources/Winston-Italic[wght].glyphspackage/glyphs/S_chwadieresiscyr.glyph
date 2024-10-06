@@ -3,56 +3,58 @@ color = 11;
 glyphname = Schwadieresiscyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (94,0);
 ref = Schwacyr;
 },
 {
 alignment = -1;
-pos = (772,0);
+pos = (866,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1614;
+width = 1652;
 },
 {
 anchors = (
 {
 name = top;
-position = "{919, 1806}";
+position = "{1103, 1806}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (95,0);
 ref = Schwacyr;
 },
 {
 alignment = -1;
-pos = (751,0);
+pos = (845,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1538;
+width = 1578;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (95,0);
 ref = Schwacyr;
 },
 {
 alignment = -1;
-pos = (742,0);
+pos = (837,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1492;
+width = 1533;
 }
 );
 leftKerningGroup = "O-cy";

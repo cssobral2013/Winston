@@ -2,65 +2,67 @@
 glyphname = onequarter;
 layers = (
 {
-layerId = "7B66E43B-35BC-4CDD-B71B-7D56A9572330";
+layerId = "A06B8506-BBE1-4A28-92E2-491406422708";
 shapes = (
 {
 alignment = -1;
+pos = (-33,0);
 ref = one.numr;
 },
 {
 alignment = -1;
-pos = (794,0);
+pos = (761,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (1224,0);
+pos = (1225,0);
 ref = four.dnom;
 }
 );
-width = 2018;
+width = 2000;
 },
 {
-layerId = "FC5D3D8C-AB50-41A9-8405-C9FF1CAE1726";
+layerId = "2D3E1F4A-4F79-435C-922D-C1502E296E5C";
 shapes = (
 {
 alignment = -1;
-pos = (-5,0);
+pos = (-42,0);
 ref = one.numr;
 },
 {
 alignment = -1;
-pos = (794,0);
+pos = (757,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (1163,0);
+pos = (1159,0);
 ref = four.dnom;
 }
 );
-width = 1951;
+width = 2000;
 },
 {
-layerId = "EA701F3C-7533-4E12-969A-F8F539424701";
+layerId = "F480A0F6-CE20-4515-90A8-C409EEC2FB0B";
 shapes = (
 {
 alignment = -1;
+pos = (-50,0);
 ref = one.numr;
 },
 {
 alignment = -1;
-pos = (794,0);
+pos = (744,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (1116,0);
+pos = (1100,0);
 ref = four.dnom;
 }
 );
-width = 1910;
+width = 2000;
 }
 );
 leftKerningGroup = one.numr;

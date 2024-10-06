@@ -3,52 +3,52 @@ color = 5;
 glyphname = exclamdbl;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (122,0);
+pos = (295,0);
 ref = exclam;
 },
 {
 alignment = -1;
-pos = (754,0);
+pos = (927,0);
 ref = exclam;
 }
 );
-width = 1426;
+width = 1601;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (83,0);
+pos = (255,0);
 ref = exclam;
 },
 {
 alignment = -1;
-pos = (671,0);
+pos = (843,0);
 ref = exclam;
 }
 );
-width = 1221;
+width = 1424;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (66,0);
+pos = (221,0);
 ref = exclam;
 },
 {
 alignment = -1;
-pos = (614,0);
+pos = (769,0);
 ref = exclam;
 }
 );
-width = 1098;
+width = 1291;
 }
 );
 rightKerningGroup = exclam;

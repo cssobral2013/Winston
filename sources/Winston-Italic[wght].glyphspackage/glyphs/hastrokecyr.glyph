@@ -3,55 +3,58 @@ color = 11;
 glyphname = hastrokecyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (92,0);
 ref = hacyr;
 },
 {
 alignment = -1;
-pos = (637,-122);
+pos = (729,-122);
 ref = strokeshortcomb.cy;
 }
 );
-width = 1310;
+width = 1440;
 },
 {
 anchors = (
 {
 name = bottomright;
-position = "{863, 0}";
+position = "{1046, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (93,0);
 ref = hacyr;
 },
 {
 alignment = -1;
-pos = (579,-146);
+pos = (671,-146);
 ref = strokeshortcomb.cy;
 }
 );
-width = 1201;
+width = 1332;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (94,0);
 ref = hacyr;
 },
 {
 alignment = -1;
-pos = (544,-168);
+pos = (638,-168);
 ref = strokeshortcomb.cy;
 }
 );
-width = 1136;
+width = 1268;
 }
 );
 leftKerningGroup = "ha-cy";

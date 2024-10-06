@@ -6,118 +6,118 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{554, 0}";
+position = "{607, 0}";
 },
 {
 name = center;
-position = "{433, 808}";
+position = "{486, 808}";
 },
 {
 name = dot;
-position = "{929, 832}";
+position = "{982, 832}";
 },
 {
 name = top;
-position = "{434, 1472}";
+position = "{487, 1472}";
 },
 {
 name = topright;
-position = "{828, 1472}";
+position = "{881, 1472}";
 }
 );
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1062,0,l),
-(1106.285,310,l),
-(452.285,310,l),
-(618.283,1472,l),
-(250.283,1472,l),
-(40,0,l)
+(1115,0,l),
+(1159,310,l),
+(505,310,l),
+(671,1472,l),
+(303,1472,l),
+(93,0,l)
 );
 }
 );
-width = 1204;
+width = 1205;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{530, 0}";
+position = "{582, 0}";
 },
 {
 name = center;
-position = "{380, 808}";
+position = "{432, 808}";
 },
 {
 name = dot;
-position = "{848, 817}";
+position = "{900, 817}";
 },
 {
 name = top;
-position = "{384, 1472}";
+position = "{436, 1472}";
 },
 {
 name = topright;
-position = "{717, 1472}";
+position = "{769, 1472}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1004,0,l),
-(1030,180,l),
-(305,180,l),
-(489,1472,l),
-(281,1472,l),
-(71,0,l)
+(1056,0,l),
+(1082,180,l),
+(357,180,l),
+(541,1472,l),
+(333,1472,l),
+(123,0,l)
 );
 }
 );
-width = 1127;
+width = 1128;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{518, 0}";
+position = "{571, 0}";
 },
 {
 name = center;
-position = "{343, 808}";
+position = "{396, 808}";
 },
 {
 name = dot;
-position = "{785, 804}";
+position = "{838, 804}";
 },
 {
 name = top;
-position = "{350, 1472}";
+position = "{403, 1472}";
 },
 {
 name = topright;
-position = "{628, 1472}";
+position = "{681, 1472}";
 }
 );
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(962,0,l),
-(971.428,66,l),
-(183.428,66,l),
-(384.283,1472,l),
-(318.283,1472,l),
-(108,0,l)
+(1015,0,l),
+(1024,66,l),
+(236,66,l),
+(437,1472,l),
+(371,1472,l),
+(161,0,l)
 );
 }
 );
-width = 1080;
+width = 1081;
 }
 );
 leftKerningGroup = H;

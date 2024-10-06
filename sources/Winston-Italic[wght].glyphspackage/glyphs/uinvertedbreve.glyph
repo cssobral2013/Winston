@@ -3,68 +3,70 @@ color = 11;
 glyphname = uinvertedbreve;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = u;
 },
 {
 alignment = -1;
-pos = (668,0);
+pos = (788,0);
 ref = breveinvertedcomb;
 }
 );
-width = 1342;
+width = 1500;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{545, 0}";
+position = "{754, 0}";
 },
 {
 name = ogonek;
-position = "{988, 0}";
+position = "{1197, 0}";
 },
 {
 name = top;
-position = "{749, 1431}";
+position = "{958, 1431}";
 },
 {
 name = topright;
-position = "{1015, 1097}";
+position = "{1224, 1097}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (120,0);
 ref = u;
 },
 {
 alignment = -1;
-pos = (635,1);
+pos = (754,1);
 ref = breveinvertedcomb;
 }
 );
-width = 1272;
+width = 1430;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = u;
 },
 {
 alignment = -1;
-pos = (616,2);
+pos = (736,2);
 ref = breveinvertedcomb;
 }
 );
-width = 1230;
+width = 1388;
 }
 );
 leftKerningGroup = u;

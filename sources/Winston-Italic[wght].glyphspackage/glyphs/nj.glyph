@@ -3,60 +3,62 @@ color = 11;
 glyphname = nj;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = n;
 },
 {
 alignment = -1;
-pos = (1354,0);
+pos = (1474,0);
 ref = j;
 }
 );
-width = 1982;
+width = 2141;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{545, 0}";
+position = "{755, 0}";
 },
 {
 name = top;
-position = "{689, 1010}";
+position = "{899, 1010}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (-8,0);
+pos = (112,0);
 ref = n;
 },
 {
 alignment = -1;
-pos = (1291,0);
+pos = (1412,0);
 ref = j;
 }
 );
-width = 1813;
+width = 1978;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = n;
 },
 {
 alignment = -1;
-pos = (1246,0);
+pos = (1366,0);
 ref = j;
 }
 );
-width = 1712;
+width = 1883;
 }
 );
 leftKerningGroup = n;

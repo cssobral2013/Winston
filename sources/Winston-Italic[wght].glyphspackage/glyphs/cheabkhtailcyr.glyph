@@ -3,50 +3,52 @@ color = 11;
 glyphname = cheabkhtailcyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (86,0);
 ref = cheabkhcyr;
 },
 {
 alignment = -1;
-pos = (1142,0);
+pos = (1228,0);
 ref = ogonekcomb;
 }
 );
-width = 1542;
+width = 1636;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (88,0);
 ref = cheabkhcyr;
 },
 {
 alignment = -1;
-pos = (1034,0);
+pos = (1121,0);
 ref = ogonekcomb;
 }
 );
-width = 1415;
+width = 1508;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (90,0);
 ref = cheabkhcyr;
 },
 {
 alignment = -1;
-pos = (956,0);
+pos = (1046,0);
 ref = ogonekcomb;
 }
 );
-width = 1338;
+width = 1431;
 }
 );
 leftKerningGroup = "cheabkhasian-cy";

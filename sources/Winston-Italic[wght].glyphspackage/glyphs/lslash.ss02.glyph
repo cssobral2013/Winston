@@ -3,70 +3,70 @@ color = 11;
 glyphname = lslash.ss02;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (90,0);
+pos = (263,0);
 ref = l.ss02;
 },
 {
 alignment = -1;
-pos = (422,-2);
+pos = (595,-2);
 ref = slashshortcomb;
 }
 );
-width = 796;
+width = 1007;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{230, 0}";
+position = "{493, 0}";
 },
 {
 name = dot;
-position = "{689, 811}";
+position = "{952, 811}";
 },
 {
 name = top;
-position = "{440, 1472}";
+position = "{703, 1472}";
 },
 {
 name = topright;
-position = "{643, 1472}";
+position = "{906, 1472}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (57,0);
+pos = (230,0);
 ref = l.ss02;
 },
 {
 alignment = -1;
-pos = (315,-1);
+pos = (488,-1);
 ref = slashshortcomb;
 }
 );
-width = 637;
+width = 848;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (38,0);
+pos = (211,0);
 ref = l.ss02;
 },
 {
 alignment = -1;
-pos = (244,0);
+pos = (417,0);
 ref = slashshortcomb;
 }
 );
-width = 542;
+width = 753;
 }
 );
 leftKerningGroup = h;

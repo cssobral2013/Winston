@@ -3,64 +3,66 @@ color = 11;
 glyphname = kjecyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = kacyr;
 },
 {
 alignment = -1;
-pos = (726,0);
+pos = (846,0);
 ref = acutecomb;
 }
 );
-width = 1326;
+width = 1484;
 },
 {
 anchors = (
 {
 name = bottomright;
-position = "{899, 0}";
+position = "{1108, 0}";
 },
 {
 name = center;
-position = "{566, 555}";
+position = "{775, 555}";
 },
 {
 name = top;
-position = "{769, 1430}";
+position = "{978, 1430}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (120,0);
 ref = kacyr;
 },
 {
 alignment = -1;
-pos = (655,0);
+pos = (774,0);
 ref = acutecomb;
 }
 );
-width = 1187;
+width = 1345;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (120,0);
 ref = kacyr;
 },
 {
 alignment = -1;
-pos = (612,0);
+pos = (732,0);
 ref = acutecomb;
 }
 );
-width = 1104;
+width = 1262;
 }
 );
 leftKerningGroup = "ve-cy";

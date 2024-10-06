@@ -3,59 +3,62 @@ color = 11;
 glyphname = Ereverseddieresiscyr;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (153,0);
 ref = Ereversedcyr;
 },
 {
 alignment = -1;
-pos = (626,0);
+pos = (779,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1374;
+width = 1478;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{511, 0}";
+position = "{751, 0}";
 },
 {
 name = top;
-position = "{769, 1806}";
+position = "{1009, 1806}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (150,0);
 ref = Ereversedcyr;
 },
 {
 alignment = -1;
-pos = (601,0);
+pos = (751,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1347;
+width = 1449;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (147,0);
 ref = Ereversedcyr;
 },
 {
 alignment = -1;
-pos = (582,0);
+pos = (729,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1330;
+width = 1430;
 }
 );
 leftKerningGroup = "Ereversed-cy";

@@ -3,50 +3,52 @@ color = 11;
 glyphname = guillemotleft;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (80,0);
 ref = guilsinglleft;
 },
 {
 alignment = -1;
-pos = (476,0);
+pos = (556,0);
 ref = guilsinglleft;
 }
 );
-width = 1122;
+width = 1184;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (-8,0);
+pos = (66,0);
 ref = guilsinglleft;
 },
 {
 alignment = -1;
-pos = (378,0);
+pos = (452,0);
 ref = guilsinglleft;
 }
 );
-width = 902;
+width = 961;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (70,0);
 ref = guilsinglleft;
 },
 {
 alignment = -1;
-pos = (306,0);
+pos = (376,0);
 ref = guilsinglleft;
 }
 );
-width = 770;
+width = 825;
 }
 );
 leftKerningGroup = guilsinglleft;

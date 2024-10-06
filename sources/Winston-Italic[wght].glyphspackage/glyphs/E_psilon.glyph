@@ -2,58 +2,58 @@
 glyphname = Epsilon;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (178,0);
 ref = E;
 scale = (1.024,1.024);
 }
 );
-width = 1226;
+width = 1442;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{590, 0}";
+position = "{857, 0}";
 },
 {
 name = ogonek;
-position = "{954, 0}";
+position = "{1221, 0}";
 },
 {
 name = top;
-position = "{805, 1507}";
+position = "{1072, 1507}";
 },
 {
 name = topleft;
-position = "{173, 1507}";
+position = "{440, 1507}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (4,0);
+pos = (179,0);
 ref = E;
 scale = (1.024,1.024);
 }
 );
-width = 1186;
+width = 1401;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (177,0);
 ref = E;
 scale = (1.024,1.024);
 }
 );
-width = 1162;
+width = 1377;
 }
 );
 unicode = 917;

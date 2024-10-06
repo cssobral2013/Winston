@@ -2,57 +2,57 @@
 glyphname = upsilondieresistonos;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (123,0);
 ref = upsilon;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (47,76);
+pos = (168,76);
 ref = dieresistonos;
 scale = (1.024,1.024);
 }
 );
-width = 1224;
+width = 1333;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (4,0);
+pos = (124,0);
 ref = upsilon;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (44,36);
+pos = (165,36);
 ref = dieresistonos;
 scale = (1.011,1.011);
 }
 );
-width = 1147;
+width = 1257;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (124,0);
 ref = upsilon;
 scale = (1.024,1.024);
 },
 {
 alignment = -1;
-pos = (38,0);
+pos = (162,0);
 ref = dieresistonos;
 }
 );
-width = 1100;
+width = 1212;
 }
 );
 unicode = 944;

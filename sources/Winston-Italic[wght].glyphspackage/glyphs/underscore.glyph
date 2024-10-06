@@ -3,49 +3,49 @@ color = 11;
 glyphname = underscore;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 closed = 1;
 nodes = (
-(746,-266,l),
-(785,6,l),
-(-47,6,l),
-(-86,-266,l)
+(798,-266,l),
+(837,6,l),
+(5,6,l),
+(-34,-266,l)
 );
 }
 );
-width = 916;
+width = 917;
 },
 {
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 closed = 1;
 nodes = (
-(762,-156,l),
-(784,4,l),
-(-48,4,l),
-(-70,-156,l)
+(814,-156,l),
+(837,4,l),
+(5,4,l),
+(-18,-156,l)
 );
 }
 );
-width = 916;
+width = 917;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 closed = 1;
 nodes = (
-(776,-58,l),
-(784,2,l),
-(-48,2,l),
-(-56,-58,l)
+(829,-58,l),
+(837,2,l),
+(5,2,l),
+(-3,-58,l)
 );
 }
 );
-width = 916;
+width = 918;
 }
 );
 leftKerningGroup = period;

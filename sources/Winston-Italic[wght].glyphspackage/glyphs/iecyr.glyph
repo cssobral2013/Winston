@@ -6,60 +6,60 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{728, 1010}";
+position = "{872, 1010}";
 }
 );
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
-pos = (18,0);
+pos = (72,0);
 ref = e;
 }
 );
-width = 1274;
+width = 1336;
 },
 {
 anchors = (
 {
 name = top;
-position = "{700, 1010}";
+position = "{846, 1010}";
 },
 {
 name = bottom;
-position = "{552, 0}";
+position = "{698, 0}";
 },
 {
 name = ogonek;
-position = "{747, 0}";
+position = "{893, 0}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
-pos = (9,0);
+pos = (65,0);
 ref = e;
 }
 );
-width = 1219;
+width = 1280;
 },
 {
 anchors = (
 {
 name = top;
-position = "{684, 1010}";
+position = "{831, 1010}";
 }
 );
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (59,0);
 ref = e;
 }
 );
-width = 1186;
+width = 1246;
 }
 );
 leftKerningGroup = "ie-cy";

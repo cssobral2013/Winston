@@ -3,55 +3,58 @@ color = 11;
 glyphname = ezhcaron;
 layers = (
 {
-layerId = "AB3199DD-655E-4C0F-A34B-FD02744555A7";
+layerId = "DFDA7944-A323-4357-A6CD-3EE161AE16F3";
 shapes = (
 {
 alignment = -1;
+pos = (64,0);
 ref = ezh;
 },
 {
 alignment = -1;
-pos = (570,0);
+pos = (634,0);
 ref = caroncomb;
 }
 );
-width = 1206;
+width = 1300;
 },
 {
 anchors = (
 {
 name = top;
-position = "{640, 1430}";
+position = "{807, 1430}";
 }
 );
-layerId = "64C9CF7B-5345-44EA-861F-4D3695E3DC07";
+layerId = "E40C1264-1582-41D6-8175-F4C1F2081197";
 shapes = (
 {
 alignment = -1;
+pos = (77,0);
 ref = ezh;
 },
 {
 alignment = -1;
-pos = (526,0);
+pos = (603,0);
 ref = caroncomb;
 }
 );
-width = 1117;
+width = 1227;
 },
 {
-layerId = "C792CAD3-12E8-4938-96FB-ECD54646BE96";
+layerId = "9BC0C71B-A637-49D9-92D6-4EFEC3ADCDB0";
 shapes = (
 {
 alignment = -1;
+pos = (88,0);
 ref = ezh;
 },
 {
 alignment = -1;
-pos = (500,0);
+pos = (588,0);
 ref = caroncomb;
 }
 );
-width = 1064;
+width = 1188;
 }
 );
 leftKerningGroup = z;
