@@ -2,19 +2,6 @@ from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''
 
-srcPath  = './ttf/Winston-Thin.ttf'
-woffPath = './web/Winston-Thin.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
-
-srcPath  = './ttf/Winston-ThinItalic.ttf'
-woffPath = './web/Winston-ThinItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
 
 srcPath  = './ttf/Winston-ExtraLight.ttf'
 woffPath = './web/Winston-ExtraLight.woff'
@@ -169,19 +156,6 @@ with TTFont(srcPath) as font:
 
 '''Generate WOFF2 from TTF or OTF font.'''
 
-srcPath  = './ttf/Winston-Thin.ttf'
-woff2Path = './web/Winston-Thin.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/Winston-ThinItalic.ttf'
-woff2Path = './web/Winston-ThinItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
 
 srcPath  = './ttf/Winston-ExtraLight.ttf'
 woff2Path = './web/Winston-ExtraLight.woff2'
